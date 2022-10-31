@@ -1,7 +1,7 @@
 # 💫 About Me:
 A  Software Engineer, who is seriously passionate where able to using well-honed skills in planning, coding and testing in order to develop state-of-the-art software solutions.
 
-<br><br>How to reach me: shahad.Alqarni@hotmail.com
+How to reach me: shahad.Alqarni@hotmail.com
 
 
 # 💻 Tech Stack:
