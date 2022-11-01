@@ -15,7 +15,9 @@ How to reach me: shahad.Alqarni@hotmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android studio"  alt="Android studio" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Android studio"  alt="Android studio" width="40" height="40"/>&nbsp;
 </div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
