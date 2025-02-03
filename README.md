@@ -1,5 +1,5 @@
 # About Me:
-A Software Engineer,interested in Android App development who is seriously passionate for applying his ability to using well-honed skills in planning, analysis, design, coding and testing in order to develop state-of-the-art software solutions.
+A Software Engineer,interested in Application development who is seriously passionate for applying his ability to using well-honed skills in planning, analysis, design, coding and testing in order to develop state-of-the-art software solutions.
 
 How to reach me: shahad.Alqarni@hotmail.com
 
